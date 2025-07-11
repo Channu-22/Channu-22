@@ -47,18 +47,6 @@ I recently graduated with a B.Tech in Computer Science from N.K. Orchid College 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-- 🌱 I’m currently learning:  
-  - Building REST APIs with Express  
-  - Integrating MongoDB with Mongoose  
-  - Clean code and project structuring  
-  - Frontend-backend communication using Fetch & Axios
-    
-- 👯 I’m looking to collaborate on:  
-  - Open-source projects  
-  - Real-world full-stack applications  
-  - React-based frontend development  
-  - MERN stack team projects or internships
-
 - 💬 Ask me about:  
   ### 🛠️ Tech Stack
 
