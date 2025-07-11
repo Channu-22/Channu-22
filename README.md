@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I'm **Chanabasappa Sinnur** – a passionate Full Stack Web Developer from Solapur, India.  
 I recently graduated with a B.Tech in Computer Science from N.K. Orchid College of Engineering, Solapur.
 
