@@ -7,6 +7,7 @@ I recently graduated with a B.Tech in Computer Science from N.K. Orchid College 
 
 - 🔭 I’m currently working on:  
   Building full-stack projects using **React, Node.js, Express, and MongoDB** to strengthen my portfolio.
+  My portFolio:
 
 - 🌱 I’m currently learning:  
   - Building REST APIs with Express  
@@ -42,7 +43,9 @@ I recently graduated with a B.Tech in Computer Science from N.K. Orchid College 
   He/Him
 
 - ⚡ Fun fact:  
-  I fix bugs by adding more bugs😆.  
+  I fix bugs by adding more bugs😆.
+
+  ---
 
 🛠️ **Tech Stack I Use:**
 
